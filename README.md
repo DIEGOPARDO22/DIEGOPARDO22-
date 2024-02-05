@@ -13,7 +13,7 @@ Soy un apasionado ingeniero de datos y científico de datos con experiencia en t
 - **Bases de Datos NoSQL:** Firebase, MongoDB.
 
 ## Educación
-- Título en Ingeniería de sistemas
+- Estudiante en Ingeniería de sistemas
 
 ## Certificaciones
 - Python esencials 1 y 2 CISCO
